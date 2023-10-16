@@ -1,16 +1,22 @@
-### Hi there 👋
-
-<!--
-**lizaluu/lizaluu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+    <thead>
+        <tr>
+            <th>Dia</th>
+            <th>Horário</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Segunda</td>
+            <td>8h ~ 20h</td>
+        </tr>
+        <tr>
+            <td>Quarta</td>
+            <td>8h ~ 20h</td>
+        </tr>
+        <tr>
+            <td>Sexta</td>
+            <td>8h ~ 20h</td>
+        </tr>
+    </tbody>
+</table>
